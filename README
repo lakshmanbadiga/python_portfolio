@@ -1,0 +1,21 @@
+Name: Badiga lakshman
+Id: 2130440
+This web page is about my portfolio which describes all my achievement.
+I have created two html pages in which index html page will display all information about my Experience, Education, Achievements, Skills.
+I have created one route with Django which redirects to another Projects page which displays the projects which i have done.
+
+proj.py:
+
+templates:
+1.aboutme.html: this is the page which tells about my education and internships. On the footer it also includes my social media links,
+contact number and email
+2.home.html: this directs you to home page
+3.inedx.html: Each player picks a symbol to represent them X's or OS alternating turns each player picks one empty space and writes
+their symbol in it the first player to get three in a row horizontally.
+4.project.html: the page shows TIC TAC TOE game project, when you click on the game it redirects you to the game
+
+assets:
+draw.gif = it pops up when the game is a draw
+gameover.mp3 = this audio is played when game is over
+playerturn.mp3 = this audio is played when player turn changes
+winner.gif = this gif is shown when a winner is declared
